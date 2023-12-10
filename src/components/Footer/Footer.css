@@ -1,0 +1,12 @@
+.footer {
+  display: flex;
+  justify-content: center;
+}
+
+.footer > * {
+  width: 100%;
+}
+
+.footer > *:not(:last-child) {
+  border-right: 1px solid rgb(216, 208, 208);
+}

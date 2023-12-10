@@ -1,0 +1,12 @@
+.rem-todos {
+  padding: 10px;
+}
+
+.rem-todos > h4 {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.rem-todos p {
+  text-align: center;
+}

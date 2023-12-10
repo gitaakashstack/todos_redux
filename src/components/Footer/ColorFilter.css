@@ -1,0 +1,21 @@
+.color-filter {
+  padding: 10px;
+}
+
+.color-filter > h4 {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.colors {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  gap: 10px 0;
+}
+
+.color-box {
+  display: flex;
+  gap: 0 10px;
+  align-items: center;
+}

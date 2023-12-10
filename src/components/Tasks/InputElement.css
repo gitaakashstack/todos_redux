@@ -1,0 +1,16 @@
+.input-wrapper {
+  display: flex;
+  justify-content: space-between;
+  padding: 10px;
+}
+
+.checkbox label {
+  margin-left: 10px;
+  font-weight: 600;
+}
+
+.checkbox input {
+  width: 20px;
+  height: 20px;
+  vertical-align: middle;
+}
